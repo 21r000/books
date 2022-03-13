@@ -6,11 +6,9 @@
   * [AWD](awd.md)
   * [vulnhub靶机实战](vulnhub靶机实战.md)
   * [内网渗透](内网渗透.md)
-  
 - **工具使用记录**
-
-
-
+  - [SNote](SNote.md)
+  - [STools](STools.md)
 
 * **学习笔记**
   * [C语言](c语言.md)
