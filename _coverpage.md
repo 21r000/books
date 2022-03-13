@@ -1,4 +1,4 @@
-![21r000'slogo](https:\gitee.com\Is21r000\image\raw\master\pic1\21r000-64x64.ico)
+![21r000-64x64.ico](21r000-64x64.ico)
 
 # 21r000 <small>の books</small>
 
