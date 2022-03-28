@@ -1,3 +1,7 @@
+- 2022-03-24
+
+  [各类报错问题总结](https://www.21r000.top/article/acfa1bff.html)
+
 - 2022-03-10
 
   [Windows上搭建ELK毫秒级响应蛇工裤记录](https://www.21r000.top/article/f49682ad.html)
@@ -13,14 +17,6 @@
 - 2022-01-19
 
   [一篇文章教会你如何更为简便的使用Win32-API](https://www.21r000.top/article/1df94188.html)
-
-- 2021-12-18
-
-  [VM16 虚拟机Win7无法安装VM tools解决方法](https://www.21r000.top/article/6503e9cb.html)
-
-- 2021-12-18
-
-  [kali 安装gmpy2报错问题总结](https://www.21r000.top/article/9f3a01f6.html)
 
 - 2022-12-18
 

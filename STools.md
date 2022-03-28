@@ -1,3 +1,7 @@
+- 2022-03-21
+
+  [信息收集自动化工具-水泽使用记录](https://www.21r000.top/article/a97dc026.html)
+
 - 2022-03-06
 
   [Burp Suite Professional 2022.2.2破解记录](https://www.21r000.top/article/38e1e532.html)

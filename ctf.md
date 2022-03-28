@@ -1,3 +1,7 @@
+- 2022-03-22
+
+  [Buu-Re刷题记录](https://www.21r000.top/article/c9a43e3e.html)
+
 - 2022-12-18
 
   [CTFshow月饼杯Crypto3_多少离杯WP](https://www.21r000.top/article/a7cc6afa.html)

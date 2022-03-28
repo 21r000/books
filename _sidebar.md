@@ -4,6 +4,7 @@
 
   * [CTF](ctf.md)
   * [AWD](awd.md)
+  * [Linux](linux.md)
   * [vulnhub靶机实战](vulnhub靶机实战.md)
   * [内网渗透](内网渗透.md)
 - **工具使用记录**
