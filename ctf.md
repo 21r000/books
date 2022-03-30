@@ -1,3 +1,7 @@
+- 2022-03-29
+
+  [加密编码类型的密文特征分析](https://www.21r000.top/article/85e79b6c.html)
+
 - 2022-03-22
 
   [Buu-Re刷题记录](https://www.21r000.top/article/c9a43e3e.html)
