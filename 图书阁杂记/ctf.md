@@ -1,3 +1,7 @@
+- 2022-03-30
+
+  [Buu-Cr刷题记录](https://www.21r000.top/article/fb6d43a6.html)
+
 - 2022-03-29
 
   [加密编码类型的密文特征分析](https://www.21r000.top/article/85e79b6c.html)
@@ -44,5 +48,5 @@
 
 - 2022-12-18
 
-  [二进制解码](https://www.21r000.top/article/66f43719.html)
+  [进制解码](https://www.21r000.top/article/66f43719.html)
 
