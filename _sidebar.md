@@ -4,11 +4,10 @@
   * [CTF](图书阁杂记/ctf.md)
   * [AWD](图书阁杂记/awd.md)
   * [Linux](图书阁杂记/linux.md)
-  * [vulnhub靶机实战](图书阁杂记/vulnhub靶机实战.md)
+  * [SNote](图书阁杂记/SNote.md)
+  * [STools](图书阁杂记/STools.md)
   * [内网渗透](图书阁杂记/内网渗透.md)
-- **工具使用记录**
-  - [SNote](工具使用记录/SNote.md)
-  - [STools](工具使用记录/STools.md)
+  * [vulnhub靶机实战](图书阁杂记/vulnhub靶机实战.md)
 
 * **学习笔记**
   * [C语言](学习笔记/c语言.md)

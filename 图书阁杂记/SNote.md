@@ -1,3 +1,11 @@
+- 2022-04-22
+
+  [VX-WeChatWin.dll文件修改实现防撤回与多开](https://www.21r000.top/article/d1f87657.html)
+
+- 2022-04-21
+
+  [QQ-IM.dll文件修改实现防撤回](https://www.21r000.top/article/75b4642b.html)
+
 - 2022-03-24
 
   [各类报错问题总结](https://www.21r000.top/article/acfa1bff.html)

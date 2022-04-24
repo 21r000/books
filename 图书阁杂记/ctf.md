@@ -12,15 +12,7 @@
 
 - 2022-12-18
 
-  [CTFshow月饼杯Crypto3_多少离杯WP](https://www.21r000.top/article/a7cc6afa.html)
-
-- 2022-12-18
-
-  [CTFshow月饼杯Crypto2_月自圆WP](https://www.21r000.top/article/dcbf7c1a.html)
-
-- 2022-12-18
-
-  [CTFshow 月饼杯crypto1_中秋月wp](https://www.21r000.top/article/b5c81d74.html)
+  [CTFshow-月饼杯Crypto部分Wp](https://www.21r000.top/article/b5c81d74.html)
 
 - 2022-12-18
 
